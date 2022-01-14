@@ -5,7 +5,7 @@ pipeline {
       steps {
         echo 'build completed'
         
-}
+    }
 }
       }
     }
@@ -20,7 +20,3 @@ pipeline {
         echo 'Deployment completed'
       }
     }
-
-
-  }
-}
